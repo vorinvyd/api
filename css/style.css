@@ -134,14 +134,14 @@ strong::after{
     justify-content: space-around;
     flex-wrap: wrap;
     padding: 40px 50px;
-	width: 75%
+	width: 50%
 }
 .feature2 p {
 	width: 25em;
 	font-size: 1.2em;
 }
 .feature2 img {
-    width: 15em;
+    width: 12em;
 }
 hr {
 	width: 50%;
