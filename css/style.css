@@ -129,6 +129,20 @@ strong::after{
 .feature img {
     width: 20em;
 }
+.feature2 {
+	display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 40px 50px;
+	width: 75%
+}
+.feature2 p {
+	width: 25em;
+	font-size: 1.2em;
+}
+.feature2 img {
+    width: 10em;
+}
 hr {
 	width: 50%;
 }
