@@ -342,6 +342,71 @@ hr {
 	background: var(--button3-color);
 	color: var(--button3-text-color);
 }
+.glava {
+    padding: 10px 25px;
+    background: var(--glava-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.glava:hover {
+	background: var(--glava-color);
+	color: var(--button3-text-color);
+}
+.techadm {
+    padding: 10px 25px;
+    background: var(--techadm-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.techadm:hover {
+	background: var(--techadm-color);
+	color: var(--button3-text-color);
+}
+.gladmin {
+    padding: 10px 25px;
+    background: var(--gladmin-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.gladmin:hover {
+	background: var(--gladmin-color);
+	color: var(--button3-text-color);
+}
+.mladmin {
+    padding: 10px 25px;
+    background: var(--mladmin-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.mladmin:hover {
+	background: var(--mladmin-color);
+	color: var(--button3-text-color);
+}
+.moder {
+    padding: 10px 25px;
+    background: var(--moder-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.moder:hover {
+	background: var(--moder-color);
+	color: var(--button3-text-color);
+}
 
 footer {
     color: #fff;
