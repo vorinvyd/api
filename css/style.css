@@ -407,6 +407,32 @@ hr {
 	background: var(--moder-color);
 	color: var(--button3-text-color);
 }
+.active {
+    padding: 10px 25px;
+    background: var(--active-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.active:hover {
+	background: var(--active-color);
+	color: var(--button3-text-color);
+}
+.noactive {
+    padding: 10px 25px;
+    background: var(--noactive-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.noactive:hover {
+	background: var(--noactive-color);
+	color: var(--button3-text-color);
+}
 
 footer {
     color: #fff;

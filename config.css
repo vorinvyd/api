@@ -34,6 +34,9 @@
   --mladmin-color: #3498DB;
   --moder-color: #030303;
   
+  --active-color: #00FF00;
+  --noactive-color: #8B0000;
+  
   --info-color: #4bb4f1; /* Colour of important text (Player count, IP) */
   
   --pinned-message-color: #222426; /* Colour pinned message section */
