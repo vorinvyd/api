@@ -35,7 +35,7 @@ let warning=`
           <br><br>
           В связи с этим сайт был отключен.
           <br><br>
-          Больще информации: https://discord.com/invite/x5uHZ5CEtE
+          Больше информации: https://discord.com/invite/x5uHZ5CEtE
           <br><br>>
           - Администрация ИМПЕРИЯ ВОРИНВУД
         </p>
