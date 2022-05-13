@@ -5,8 +5,8 @@
 
 
 @font-face {
-  font-family: Poppins;
-  src: url(Rubik.ttf);
+  font-family: SF Pro Rounded Regular;
+  src: url(SF-Pro-Rounded-Regular.otf);
 }
 
 html,
@@ -18,7 +18,7 @@ body {
 	max-height: 100%;
 	padding: 0px;
 	margin: 0px;
-	font-family: Poppins, sans-serif;
+	font-family: SF Pro Rounded Regular, sans-serif;
 }
 
 /* =========== Header =========== */
@@ -35,7 +35,7 @@ body {
     color: #fff;
 }
 h1 {
-	font-family: Poppins, sans-serif;
+	font-family: SF Pro Rounded Regular, sans-serif;
 	font-size: 4em;
 	margin: 0;
 	text-transform: uppercase;
@@ -43,11 +43,11 @@ h1 {
     text-align: center;
 }
 h2 {
-	font-family: Poppins, sans-serif;
+	font-family: SF Pro Rounded Regular, sans-serif;
 	font-size: 3.0em;
 }
 h3 {
-	font-family: Poppins, sans-serif;
+	font-family: SF Pro Rounded Regular, sans-serif;
 	font-size: 1.5em;
 }
 @media (max-width: 1200px) {
@@ -64,8 +64,8 @@ h3 {
 .info {
 	color: var(--info-color);
 	font-weight: 700;
-	/* Numbers look stupid in Raleway so we will make it Poppins */
-	font-family: Poppins, sans-serif;
+	/* Numbers look stupid in Raleway so we will make it SF Pro Rounded Regular */
+	font-family: SF Pro Rounded Regular, sans-serif;
 }
 .ip {
 	text-decoration: underline;
@@ -159,12 +159,12 @@ hr {
 }
 .staff-card h2 {
 	line-height: 0;
-	font-family: Poppins,sans-serif;
+	font-family: SF Pro Rounded Regular,sans-serif;
 	color: #525252;
 }
 .staff-card h3 {
 	line-height: 0;
-	font-family: Poppins,sans-serif;
+	font-family: SF Pro Rounded Regular,sans-serif;
 	color: #525252;
 }
 @media (max-width: 1200px) {
@@ -214,7 +214,7 @@ hr {
 }
 .vote-card h3 {
 	line-height: 0;
-	font-family: Poppins,sans-serif;
+	font-family: SF Pro Rounded Regular,sans-serif;
 	color: #ffffff;
 }
 .vote-card a {
@@ -242,7 +242,7 @@ hr {
 }
 .news-card h3 {
 	line-height: 0;
-	font-family: Poppins,sans-serif;
+	font-family: SF Pro Rounded Regular,sans-serif;
 }
 
 #pinned {
@@ -267,7 +267,7 @@ hr {
 }
 .pinned-card h3 {
 	line-height: 0;
-	font-family: Poppins,sans-serif;
+	font-family: SF Pro Rounded Regular,sans-serif;
 }
 .pinned-card > .btn {
 	background: var(--pinned-button-color);
