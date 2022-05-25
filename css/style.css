@@ -244,6 +244,10 @@ hr {
 	line-height: 0;
 	font-family: SF Pro Rounded Medium,sans-serif;
 }
+.news-card news {
+	transition: all .3s;
+	border-radius: 1em;
+}
 
 #pinned {
 	width: 35em;
