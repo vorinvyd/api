@@ -139,10 +139,6 @@ strong::after{
 .feature2 p {
 	width: 25em;
 	font-size: 1.2em;
-}
-.feature2 img {
-    width: 12em;
-}
 hr {
 	width: 50%;
 }
