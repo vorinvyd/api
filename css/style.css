@@ -139,7 +139,22 @@ strong::after{
 .feature2 p {
 	width: 25em;
 	font-size: 1.2em;
-hr {
+}
+.feature2 img {
+	width: 12em;
+}
+.city {
+	display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 40px 50px;
+	width: 50%
+}
+.city p {
+	width: 25em;
+	font-size: 1.2em;
+}
+.hr {
 	width: 50%;
 }
 
@@ -327,6 +342,20 @@ hr {
 .btn3:hover {
 	background: var(--button3-hover-color);
 	color: var(--button3-hover-text-color);
+}
+
+.tags {
+    padding: 10px 25px;
+    background: var(--button3-color);
+    color: var(--button3-text-color);
+    display: inline-block;
+    border-radius: 1em;
+    transition: .3s;
+	text-decoration: none;
+}
+.tags:hover {
+	background: var(--button3-hover-color);
+	color: var(--button3-text-color);
 }
 
 .rules {
