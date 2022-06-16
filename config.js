@@ -3,7 +3,7 @@
  * License - https://olliejw.me/tos
  */
 
-var server_name = "ИМПЕРИЯ ВОРИНВУД";
+var server_name = "VorinvydSMP";
 var server_ip = "142.132.154.110";
 var server_port = 28373;
 var ip_copied = "IP copied!";
